@@ -1,0 +1,21 @@
+sep=,
+Category,Key,Field,Value
+users,standard,username,standard_user
+users,standard,password,secret_sauce
+customers,joud,firstName,Joud
+customers,joud,lastName,Mikhael
+customers,joud,postalCode,12345
+customers,ibrahim,firstName,ibrahim
+customers,ibrahim,lastName,naaman
+customers,ibrahim,postalCode,123
+products,backpack,name,Sauce Labs Backpack
+products,backpack,id,sauce-labs-backpack
+products,backpack,price,29.99
+products,bikeLight,name,Sauce Labs Bike Light
+products,bikeLight,id,sauce-labs-bike-light
+products,bikeLight,price,9.99
+checkout,checkout,paymentInfo,SauceCard #31337
+checkout,checkout,shippingInfo,Free Pony Express Delivery!
+checkout,checkout,taxRate,0.08
+checkout,checkout,successHeader,Thank you for your order!
+checkout,checkout,successText,"Your order has been dispatched, and will arrive just as fast as the pony can get there!"
